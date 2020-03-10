@@ -30,7 +30,7 @@ analytics-google: 'UA-159526150-1'
 
 # if you don't want comments in your posts, leave categories empty
 disqus:
-  shortname: leticia_portella # enter this from your disqus account
+  shortname: leportella-stripe # enter this from your disqus account
   categories: [blog, project] # only show disqus for posts that have these categories
 
 # if you don't have any of social below, comment the line
